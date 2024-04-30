@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\DSP_2\DSP_2\bin\Debug\DSP_2.exe.config
+C:\Users\Prave\source\repos\DSP_2\DSP_2\bin\Debug\DSP_2.exe
+C:\Users\Prave\source\repos\DSP_2\DSP_2\bin\Debug\DSP_2.pdb
+C:\Users\Prave\source\repos\DSP_2\DSP_2\obj\Debug\DSP_2.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\DSP_2\DSP_2\obj\Debug\DSP_2.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\DSP_2\DSP_2\obj\Debug\DSP_2.exe
+C:\Users\Prave\source\repos\DSP_2\DSP_2\obj\Debug\DSP_2.pdb

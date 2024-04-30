@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prave\\source\\repos\\DSP_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7235B3-1E99-4BE6-991D-DD3383BFCE4A}|DSP_2\\DSP_2.csproj|c:\\users\\prave\\source\\repos\\dsp_2\\dsp_2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7235B3-1E99-4BE6-991D-DD3383BFCE4A}|DSP_2\\DSP_2.csproj|solutionrelative:dsp_2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7235B3-1E99-4BE6-991D-DD3383BFCE4A}|DSP_2\\DSP_2.csproj|C:\\Users\\Prave\\source\\repos\\DSP_2\\dsp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7235B3-1E99-4BE6-991D-DD3383BFCE4A}|DSP_2\\DSP_2.csproj|solutionrelative:dsp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7235B3-1E99-4BE6-991D-DD3383BFCE4A}|DSP_2\\DSP_2.csproj|C:\\Users\\Prave\\source\\repos\\DSP_2\\dsp_2\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7235B3-1E99-4BE6-991D-DD3383BFCE4A}|DSP_2\\DSP_2.csproj|solutionrelative:dsp_2\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Print.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\DSP_2\\DSP_2\\Print.cs",
+              "RelativeDocumentMoniker": "DSP_2\\Print.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\DSP_2\\DSP_2\\Print.cs",
+              "RelativeToolTip": "DSP_2\\Print.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:05:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\DSP_2\\DSP_2\\Circle.cs",
+              "RelativeDocumentMoniker": "DSP_2\\Circle.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\DSP_2\\DSP_2\\Circle.cs",
+              "RelativeToolTip": "DSP_2\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T06:44:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\DSP_2\\DSP_2\\Program.cs",
+              "RelativeDocumentMoniker": "DSP_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\DSP_2\\DSP_2\\Program.cs",
+              "RelativeToolTip": "DSP_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:38:37.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
